@@ -1,0 +1,47 @@
+import {ovserver} from 'mobx-react'
+import {browserRouter,useLocation} from 'react-router-dom'
+import {rawIntProvider} from 'react-intl'
+
+
+draggableEntry
+
+import {draggable} from react-draggable
+import useNaviage from react-router-dom
+
+
+stratBackgroud
+   img
+   index
+   startBackground.less
+   startBackground.tsx
+
+import stratbackgroud from './startBackGround;
+import ./startBackground.less';
+
+import {cloneElement} from 'react'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
