@@ -21,6 +21,10 @@ import ./startBackground.less';
 import {cloneElement} from 'react'
 
 
+mobx-react  mobx-persist-store 
+
+
+
 
 
 
