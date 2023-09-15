@@ -28,6 +28,7 @@ https://www.ngui.cc/article/show-1353150.html?action=onClick
 
 
 
+let [integer,decimal=''] = source.toLocaleString('en-US').split('.')
 
 
 
